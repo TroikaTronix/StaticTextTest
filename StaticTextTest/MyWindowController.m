@@ -21,8 +21,7 @@
     [super windowDidLoad];
 	
 	[self window];
-	
- 	int iii = 1;
+
     // Implement this method to handle any initialization after your window controller's window has been loaded from its nib file.
 }
 

@@ -689,16 +689,16 @@
         <window title="StaticTextTest" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" releasedWhenClosed="NO" animationBehavior="default" id="QvC-M9-y7g">
             <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
             <windowPositionMask key="initialPositionMask" leftStrut="YES" rightStrut="YES" topStrut="YES" bottomStrut="YES"/>
-            <rect key="contentRect" x="335" y="390" width="480" height="360"/>
+            <rect key="contentRect" x="335" y="390" width="340" height="51"/>
             <rect key="screenRect" x="0.0" y="0.0" width="1680" height="1027"/>
             <view key="contentView" wantsLayer="YES" id="EiT-Mj-1SZ">
-                <rect key="frame" x="0.0" y="0.0" width="480" height="360"/>
+                <rect key="frame" x="0.0" y="0.0" width="340" height="51"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" preferredMaxLayoutWidth="291" textCompletion="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zuK-1a-lB1">
-                        <rect key="frame" x="20" y="329" width="300" height="11"/>
+                    <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" preferredMaxLayoutWidth="291" textCompletion="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dXC-Y1-rHA">
+                        <rect key="frame" x="20" y="20" width="300" height="11"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
-                        <textFieldCell key="cell" selectable="YES" sendsActionOnEndEditing="YES" title="Verdana Text jÜ" drawsBackground="YES" allowsEditingTextAttributes="YES" id="kIs-Pq-nPU">
+                        <textFieldCell key="cell" selectable="YES" sendsActionOnEndEditing="YES" title="Verdana Text jÜ" drawsBackground="YES" allowsEditingTextAttributes="YES" id="p5C-m0-FlJ">
                             <font key="font" size="9" name="Verdana-Bold"/>
                             <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                             <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -706,7 +706,7 @@
                     </textField>
                 </subviews>
             </view>
-            <point key="canvasLocation" x="139" y="299"/>
+            <point key="canvasLocation" x="69" y="144.5"/>
         </window>
     </objects>
 </document>
