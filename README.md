@@ -10,3 +10,5 @@ If you build with the deployment target set to 10.14 or later, the text in the w
 But if you build with the deployment target set to 10.13 or earlier,  an extra 3 pixels of space are added above the text, causing it to be cut off within the 11 pixel high frame.
 
 ![NSTextField compiled with the 10.13 SDK](https://github.com/troikatronix/StaticTextTest/blob/main/static-text-macOS-10.13SDK.png?raw=true)
+
+This example was created to accompany a bug report to Apple Developer Technical Services.
